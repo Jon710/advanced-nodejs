@@ -1,4 +1,4 @@
-This is a solution to a problem I've solved in a different way (conversion in an AWS Lambda) in my SaaS app in production. Here, I've used Node.js Worker threads to convert video files.
+This is a POC solution to a problem I've solved in a different way (conversion in an AWS Lambda) in my SaaS app in production. Here, I've used Node.js Worker threads to convert video files.
 
 # Worker threads aren't true threads
 
