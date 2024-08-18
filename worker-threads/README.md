@@ -15,3 +15,5 @@ Since the file is executed in this way, there's no implicit memory sharing betwe
 
 TODO:
   [] - worker pool (Piscina)
+
+https://javascript.plainenglish.io/building-a-multithreaded-crypto-exchange-in-nodejs-part-2-c0375dabe114
