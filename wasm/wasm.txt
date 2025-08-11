@@ -1,1 +1,2 @@
 https://developersvoice.com/blog/frontend/react-and-webassembly-wasm/
+https://www.rahuljuliato.com/posts/react-workers
