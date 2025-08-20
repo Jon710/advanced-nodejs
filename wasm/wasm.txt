@@ -1,2 +1,4 @@
 https://developersvoice.com/blog/frontend/react-and-webassembly-wasm/
 https://www.rahuljuliato.com/posts/react-workers
+https://overreacted.io/react-as-a-ui-runtime/
+https://overreacted.io/a-complete-guide-to-useeffect/
